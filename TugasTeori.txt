@@ -1,0 +1,8 @@
+Buatlah Tulisan atau Makala sederhana mengenai object berikut:
+1. ListView
+2. DataGridView
+
+Uraikan mengenai object diatas:
+1. Bagaimana cara menggunakan kedua object tersebut
+2. apa kelebihan masing masing object
+
